@@ -1,19 +1,19 @@
 {
-    "version": "0.2.6",
+    "version": "0.2.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/micnncim/goreleaser-playground/releases/download/v0.2.6/goreleaser-playground_0.2.6_windows_386.tar.gz",
+            "url": "https://github.com/micnncim/goreleaser-playground/releases/download/v0.2.8/goreleaser-playground_0.2.8_windows_386.tar.gz",
             "bin": [
                 "goreleaser-playground.exe"
             ],
-            "hash": "1e7622bd02d0ea7336c73fcf07d035d554d9a44d2032699bbedd0d8917fedfc5"
+            "hash": "5653e848e1a2b48288b5579ef781f1a6b2fe52d29fc6050ac0523b862564a78e"
         },
         "64bit": {
-            "url": "https://github.com/micnncim/goreleaser-playground/releases/download/v0.2.6/goreleaser-playground_0.2.6_windows_amd64.tar.gz",
+            "url": "https://github.com/micnncim/goreleaser-playground/releases/download/v0.2.8/goreleaser-playground_0.2.8_windows_amd64.tar.gz",
             "bin": [
                 "goreleaser-playground.exe"
             ],
-            "hash": "190df7c5954b3be7fa3baf52f7e68fd6c47e8638c78837ec19eaa2bc9a57592b"
+            "hash": "4184dc0c6dba510d4a6c8b9651b91e5621a055c7e9c68acfb94f3d5355ac2062"
         }
     },
     "homepage": "https://github.com/micnncim/goreleaser-playground",
